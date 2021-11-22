@@ -1,0 +1,64 @@
+body {
+    min-height: 100vh;
+    min-width: 20vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row  ;
+
+
+}
+.header{
+    margin-top: -62%;
+    color:teal;
+    background:black;
+
+    min-width: 150vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row  ;
+    }
+
+    ul>li{
+        margin-top: 0%;
+        display:inline;
+        padding-right: 15px;
+        color:rgb(255,255,255);
+        font-size: larger;
+        font-weight: 900;
+    }
+    ul{
+        display:inline-block;
+     }   
+
+form{
+    margin-top: 30%;
+    margin-bottom: auto;
+    width:400px;
+    height: 500px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction:column  ;
+    background:rgb(204, 204, 204);
+    border-radius: 40px;  
+
+}
+.email{
+    margin-top: auto;
+    height: 200px;
+    width: 300PX;
+    background: powderblue;
+border-radius: 30px;
+}
+.email1{
+   margin-bottom: 5%;
+    height: 200px;
+    width: 150PX;
+    background: rgb(243, 205, 134);
+border-radius: 30px;
+}

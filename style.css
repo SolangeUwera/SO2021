@@ -1,0 +1,37 @@
+.header{
+    color:teal;
+    background:black;
+    padding:25px 10px;
+    }
+    .body{
+    font-size:16pt;
+    }
+    .footer{
+        text-transform: capitalize;
+    }
+    button{
+    height:60px;
+    width:80px;
+    color: palegreen;
+    background-color: purple;
+    border-radius: 10%;
+    }
+    body {
+        min-height: 100vh;
+        font-family: 'Mukta Malar', Arial;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background: #8dabda;  
+     }
+    ul>li{
+        display:inline;
+        padding-right: 15px;
+        color:rgb(235, 182, 182);
+        font-size: larger;
+        font-weight: 900;
+    }
+    ul{
+        display:inline-block;
+     } 
